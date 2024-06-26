@@ -1,0 +1,120 @@
+
+.container {
+    margin-left: 35%;
+    margin-top: 10%;
+    background-color: rgb(60, 60, 60);
+    height: 57vh;
+    width: 18%;
+    border-radius: 5%;
+    border: 7px solid black;
+}
+.inp {
+    width: 100%;
+}
+.inp input {
+    margin-top: 15px;
+    width: 80%;
+    margin-left: 7%;
+    height: 6vh;
+    font-size: 20px;
+    text-align: right;
+    border: 3px solid black;
+    border-radius: 6%;
+}
+.firstLine {   
+    width: 100%;
+    display:flexbox;
+    text-align: center;
+    margin-left: -10px;
+    border-radius: 10%;
+}
+.firstLine input {
+ font-size: 20px;
+    margin-left: 3%;
+    margin-top: 12px;
+   height: 6vh;
+   width: 20%;
+   border-radius: 15%;
+   border: 3px solid black;
+}
+
+.secondLine {
+    width: 100%;
+    display:flexbox;
+    text-align: center;
+    margin-left: -10px;
+    border-radius: 10%;
+}    
+
+    .secondLine input {
+        font-size: 20px;
+        margin-left: 3%;
+        margin-top: 20px;
+       height: 6vh;
+       width: 20%;
+       border-radius: 15%;
+       border: 3px solid black;
+       }
+
+       .thirdLine {
+        width: 100%;
+        display:flexbox;
+        text-align: center;
+        margin-left: -10px;
+        border-radius: 10%;
+    }    
+    
+        .thirdLine input {
+            font-size: 20px;
+            margin-left: 3%;
+            margin-top: 20px;
+           height: 6vh;
+           width: 20%;
+           border-radius: 15%;
+           border: 3px solid black;
+           }
+           .fourthLine {
+            width: 100%;
+            display:flexbox;
+            text-align: center;
+            margin-left: -10px;
+            border-radius: 10%;
+        }    
+        
+            .fourthLine  input {
+                font-size: 20px;
+                margin-left: 3%;
+                margin-top: 20px;
+               height: 6vh;
+               width: 20%;
+               border-radius: 15%;
+               border: 3px solid black;
+               }
+               #equal {
+                margin-top: 5px;
+                height: 13vh;
+                background-color: orange;
+               }
+
+               .del {
+                width: 100%;
+                display:flex;
+                text-align: center;
+                margin-left: -10px;
+                border-radius: 10%;
+
+               }
+               .del input {
+                margin-top: 10px;
+                font-size: 20px;
+                margin-left: 20px;
+               height: 6vh;
+               width: 20%;
+               border-radius: 15%;
+               border: 3px solid black;
+
+               }
+               .del input:nth-child(1)
+               {
+                margin-left: 54%;
+               }
